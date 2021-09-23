@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml:2:3-49
+		INJECTED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml
+		INJECTED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml:4:5-75
+	android:name
+		ADDED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml:4:22-72
+uses-sdk
+INJECTED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml
+INJECTED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml
+INJECTED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml
+INJECTED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml
+		ADDED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml
+		INJECTED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml
+		ADDED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml
+		INJECTED from /home/delimond/flutter/.pub-cache/hosted/pub.dartlang.org/android_multiple_identifier-1.0.3/android/src/main/AndroidManifest.xml
